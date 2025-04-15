@@ -49,3 +49,18 @@ fast_car = {
 
 for key, value in fast_car.items():  # .keys(), .values()
     print(key, value)
+
+for _ in range(10):
+    pass
+
+a = [1, 2]
+
+_, c = a
+
+
+i = 0
+while i < len(fruits):
+    print(fruits[i])
+    i += 1
+
+# there is no do ... while in Python
